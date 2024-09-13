@@ -1,0 +1,10 @@
+GET http://localhost:4000/properties
+
+
+###
+
+GET http://localhost:4000/properties/search
+
+
+###
+GET http://localhost:4000/properties/filter
